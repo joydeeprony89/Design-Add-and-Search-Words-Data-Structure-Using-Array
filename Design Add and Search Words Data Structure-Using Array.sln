@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Add and Search Words Data Structure-Using Array", "Design Add and Search Words Data Structure-Using Array\Design Add and Search Words Data Structure-Using Array.csproj", "{A2A9218A-2434-4F50-8089-CB2B0E8A856D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A9218A-2434-4F50-8089-CB2B0E8A856D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A9218A-2434-4F50-8089-CB2B0E8A856D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A9218A-2434-4F50-8089-CB2B0E8A856D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A9218A-2434-4F50-8089-CB2B0E8A856D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B5CD9B-FDF0-436E-A793-B78D279C969F}
+	EndGlobalSection
+EndGlobal
